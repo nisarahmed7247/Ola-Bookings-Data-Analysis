@@ -151,7 +151,7 @@ The Power BI report contains **five pages**, with each page focusing on a differ
 
 The Overall page provides a high-level view of the key booking and ride-related metrics in the dataset.
 
-![Overall Analysis](Overall.png)
+![Overall Analysis](Overall.png?v=2)
 
 ---
 
